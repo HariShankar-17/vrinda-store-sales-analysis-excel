@@ -216,6 +216,6 @@ It was an important step in my journey towards becoming a Data Analyst, and I lo
 
 ---
 
-**Project:** Vrinda Store – Sales Performance Analysis  
+**Project:** Vrinda Store - Sales Performance Analysis  
 **Tool:** Microsoft Excel  
 **Focus:** Data Cleaning | Exploratory Data Analysis | Business Insights | Data Visualization | Dashboard Development
