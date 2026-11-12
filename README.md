@@ -172,9 +172,6 @@ Records requiring investigation were retained where appropriate and excluded fro
 
 ![Order and Inventory Analysis](Screenshots/Order%20and%20Inventory%20Analysis.png)
 
-### Statistical Analysis
-
-![Statistical Analysis](Screenshots/Statistical%20Analysis%20%E2%80%93%20CV%20and%20Revenue%20vs%20Volume.png)
 
 ## 📁 Repository Structure
 
